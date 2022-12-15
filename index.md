@@ -4,7 +4,13 @@
 
 ### A medida que for aprendendo novos conceitos, poderei compartilhar aqui no próprio GitHub ou no LinkedIN com a comunidade.
 
-Teste
-Adicionando uma imagem: 
-
+Teste:
+adicionando uma imagem: 
+<br>
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+git remote origin main https://github.com/Solon-Santos-dev/GitHub-review.git
+```
+
+
