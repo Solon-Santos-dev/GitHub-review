@@ -13,5 +13,11 @@ adicionando uma imagem:
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-
+<strong>Lista de Tarefas<strong/>
+  - [x] Adicionar informações no index.md
+  - [x] Adicionar uma imagem
+  - [x] Testar e adicionar um bloco de código
+  - [x] Fazer essa lista de tarefas
+  - [ ] Fazer o merge desse pull request
+  
 
